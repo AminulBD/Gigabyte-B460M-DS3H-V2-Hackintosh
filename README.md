@@ -1,12 +1,12 @@
-## macOS Big Sur with OpenCore for Gigabyte B460 DS3H V2
+## macOS Big Sur with OpenCore for Gigabyte B460M DS3H V2
 
 In this repository, I've included all things that I used to build my small Hackintosh.
 
 #### Build Configuration
 | Components           | Model                   | Working?      |
 | -------------------- | ----------------------- | :-----------: |
-| Motherboard          | Gigabyte B460 DS3H V2   | Yes           |
-| CPU                  | Intel i4-10400          | Yes           |
+| Motherboard          | Gigabyte B460M DS3H V2  | Yes           |
+| CPU                  | Intel i5-10400          | Yes           |
 | GPU (Integrated)     | Intel® UHD Graphics 630 | Yes           |
 | GPU (External)       | -                       | -             |
 | RAM                  | 2x8GB DDR-4             | Yes           |
